@@ -1,4 +1,4 @@
-package maratonajava.weslei.cursodev;
+package maratonajava.weslei.cursodev.exercicios;
 
 public class TiposPrimitivosExercicio {
    public static void main(String[] args) {

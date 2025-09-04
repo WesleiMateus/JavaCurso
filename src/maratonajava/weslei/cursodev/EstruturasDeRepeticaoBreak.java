@@ -6,8 +6,11 @@ public class EstruturasDeRepeticaoBreak {
 
         int limitValue = 50;
 
-        for (int i = 0; i < limitValue; i++) {
-           
+        for (int i = 0; i <= limitValue; i++) {
+            System.out.println(i);
+            if(i == 25) {
+                break;
+                }
         }
     }
 }
