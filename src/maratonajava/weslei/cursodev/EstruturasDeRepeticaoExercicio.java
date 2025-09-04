@@ -1,4 +1,4 @@
-package maratonajava.weslei.cursodev.exercicios;
+package maratonajava.weslei.cursodev;
 
 public class EstruturasDeRepeticaoExercicio {
     public static void main(String[] args) {
