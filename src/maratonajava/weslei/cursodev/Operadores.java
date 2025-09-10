@@ -9,5 +9,5 @@ public class Operadores {
       boolean isPersonWageCorrect = (age <= 30 && wage >= 3381) || (age >= 30 && wage >= 4612); 
 
       System.out.println(isPersonWageCorrect);
-   }  
+   }
 }

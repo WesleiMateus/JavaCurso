@@ -21,6 +21,7 @@ public class EstruturasCondicionais {
          isPersonWageCorrect = false;
          System.out.println("Terceira Condição --> " + isPersonWageCorrect);
       }
+      
 
    }
 }

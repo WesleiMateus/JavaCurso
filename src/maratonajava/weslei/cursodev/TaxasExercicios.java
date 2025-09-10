@@ -32,6 +32,7 @@ public class TaxasExercicios {
             System.out.println("All salary:  " + salary);
             System.out.println("Taxes paid - " + totalPaymant);
             System.out.println("Liquid Salary: " + totalReceivable);
+
         }
     }
 }   
