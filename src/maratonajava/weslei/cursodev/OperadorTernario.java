@@ -7,5 +7,7 @@ public class OperadorTernario {
         boolean isOverAge = (age >= 21) ? true : false;
 
         System.out.println(isOverAge);
+
+        
     }
 }
